@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796727452524",
+    "project_id": "pozis-chat",
+    "storage_bucket": "pozis-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796727452524:android:5c61d47d510e7270ca8949",
+        "android_client_info": {
+          "package_name": "com.example.pozischatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796727452524-ug0sg2g3acf6se92gocncj750up227ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pozischatapp",
+            "certificate_hash": "c218bbca19fce4d700511659f3a5373234177881"
+          }
+        },
+        {
+          "client_id": "796727452524-6m0pohh1s3aipu8bagp3738qpitgeob8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tiDhxmQvdPkNzZIxvlVR_sDCAXz8A3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796727452524-6m0pohh1s3aipu8bagp3738qpitgeob8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
